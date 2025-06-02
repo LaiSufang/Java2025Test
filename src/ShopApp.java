@@ -5,9 +5,7 @@ import io.helidon.webserver.WebServer;
 import java.net.InetAddress;
 import java.net.UnknownHostException;
 
-
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+// This is a simple Java application that demonstrates basic Java concepts, flow control, arrays, and a web server using Helidon.
 public class ShopApp {
     public static void main(String[] args) {
 
